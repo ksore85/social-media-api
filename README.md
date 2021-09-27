@@ -1,15 +1,35 @@
-# social-media-api
+# Social Media API
 
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
+## Description
+This is an API for a social media application, utilizing; NoSQL, Mongoose, and Express. 
 
-GIVEN a social network API
-WHEN I enter the command to invoke the application
-THEN my server is started and the Mongoose models are synced to the MongoDB database
-WHEN I open API GET routes in Insomnia Core for users and thoughts
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-THEN I am able to successfully create, update, and delete users and thoughts in my database
-WHEN I test API POST and DELETE routes in Insomnia Core
-THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
+- [Credits](#credits)
+- [Questions, Comments, Suggestions](#questions-comments-suggestions)
+
+## Installation
+To interface with this application, clone the repository to your local device and run `npm install` from the root of the project directory, to install the relevant dependencies.
+
+## Usage
+Using this application requires the installation of Insomnia or alternative software. For a full walkthrough of how to use this application [please visit the walkthrough video]().
+
+## Features
+-Mongoose
+-Express
+-NoSQL
+
+The full list of features for this application is located in the package.json file's list of dependencies.
+
+## License
+[![license-MIT-blue.png](https://img.shields.io/badge/license-MIT-blue)](#License)
+
+## Credits
+### Developed By
+- [Kyle Sorensen, Back End Developer](https://www.github.com/ksore85)
+
+## Questions, Comments, Suggestions
+Please email [Kyle Sorensen](mailto:ksore85@gmail.com) with any questions, to report any bugs, or to make any feature suggestions. You can also [Contact Kyle Sorensen on GitHub](https://www.github.com/ksore85).
