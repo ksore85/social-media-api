@@ -15,7 +15,7 @@ This is an API for a social media application, utilizing; NoSQL, Mongoose, and E
 To interface with this application, clone the repository to your local device and run `npm install` from the root of the project directory, to install the relevant dependencies.
 
 ## Usage
-Using this application requires the installation of Insomnia or alternative software. For a full walkthrough of how to use this application [please visit the walkthrough video]().
+Using this application requires the installation of Insomnia or alternative software. For a full walkthrough of how to use this application [please visit the walkthrough video](https://watch.screencastify.com/v/UHSaHUsAUCdXOXhuaalg).
 
 ## Features
 -Mongoose
